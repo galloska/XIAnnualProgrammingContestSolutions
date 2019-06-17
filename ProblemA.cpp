@@ -16,7 +16,6 @@ const int MAXN = 1000001;
 
 int cont[26];
 
-// чтение и перевод это будет пустой тратой времени
 int main() {
 	ios_base::sync_with_stdio(0);
 	cin.tie(0);
